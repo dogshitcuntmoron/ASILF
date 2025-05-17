@@ -1,0 +1,9 @@
+[package]
+name = "ASILF"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+winreg = "0.55.0"
+inquire = "0.7.5"
+is_elevated = "0.1.2"
